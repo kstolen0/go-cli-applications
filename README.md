@@ -1,7 +1,7 @@
 
 # What this repo is for
 
-Following along with the book [Building Modern Web Applications with Go]().
+Following along with the book [Building Modern Web Applications with Go](https://www.amazon.com/Building-Modern-CLI-Applications-next-level/dp/1804611654).
 
 Anticipated outcomes: 
 1. More familiarity with Go
